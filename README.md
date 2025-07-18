@@ -15,6 +15,8 @@ This project implements a secure QR code generation and decryption system using 
 Detects tampering using cryptographic hash comparison
 
 **How It Works**
+
+
 **Generate Keys**
 AES and HMAC keys are generated manually using a random byte generator.
 
